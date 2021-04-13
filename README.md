@@ -63,4 +63,6 @@ In this homework assignment, you will need to:
 
 - - -
 
+# Reporting
+
 For this project I created Logistic Regeression, SVM, and Deep Learning models using the same feature inputs and output after cleaning through the data and finding the most important features. The Logistic Regression model is 87% accurate and the SVM model is similar at 86% with hypertuning to find the ideal paramaters using GridSearch. The Deep Learning model was the most accurate at about 90% largely due to to the extra hidden node layer that is not present with the other models. All of these models could be viable in making predictions in regard to possible exoplanets, however I would recommend always utilizing the Deep Learning model.
