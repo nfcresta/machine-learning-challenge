@@ -4,6 +4,8 @@
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
+## *** Please see reporting section for model conclusions ***
+
 ### Before You Begin
 
 1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
