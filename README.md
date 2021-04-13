@@ -49,19 +49,6 @@ In this homework assignment, you will need to:
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
 
-
-- - -
-
-## Resources
-
-* [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
-
-* [Scikit-Learn Tutorial Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
-
-* [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
-
-* [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
-
 - - -
 
 # Reporting
