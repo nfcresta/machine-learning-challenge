@@ -1,10 +1,9 @@
-# machine-learning-challenge
+# Machine Learning Challenge - Exoplanet Exploration
 
-# Machine Learning Homework - Exoplanet Exploration
+## *** Please see reporting section for model conclusions ***
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
-## *** Please see reporting section for model conclusions ***
 
 ### Before You Begin
 
